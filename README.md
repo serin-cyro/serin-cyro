@@ -32,7 +32,7 @@ I'm currently pursuing my MS in Cybersecurity at Northeastern University (Class 
 | **AI-Powered Intrusion Detection System** | CNN-LSTM model for network anomaly detection with real-time classification |
 
 ---
-
+<!--
 ###  GitHub Stats
 
 <p align="center">
@@ -44,7 +44,7 @@ I'm currently pursuing my MS in Cybersecurity at Northeastern University (Class 
 </p>
 
 ---
-
+-->
 ###  Currently
 
 - 🎓 MS Cybersecurity @ Northeastern University (GPA: 3.83)
