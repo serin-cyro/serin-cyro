@@ -49,17 +49,6 @@ Designed detection system for DDoS, port scanning, and botnet activity. Reduced 
 
 ---
 
-### Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=serin-cyro&show_icons=true&theme=github_dark&hide_border=true&icon_color=8B949E&title_color=ffffff&text_color=8B949E&bg_color=0d1117" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=serin-cyro&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8B949E&fire=ffffff&currStreakLabel=ffffff" height="165" />
-
-</div>
-
----
-
 ### Certifications
 
 Google Associate Cloud Engineer | IBM IT Fundamentals for Cybersecurity | Microsoft GitHub Copilot
