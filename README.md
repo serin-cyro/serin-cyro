@@ -60,7 +60,3 @@ I'm currently pursuing my MS in Cybersecurity at Northeastern University (Class 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tony.s@northeastern.edu)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=serin-cyro&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
