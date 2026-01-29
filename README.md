@@ -15,8 +15,8 @@
 
 MS Cybersecurity candidate at Northeastern University (GPA: 3.83) with 3 years of experience securing enterprise applications in financial services at Tata Consultancy Services. Specialized in vulnerability assessment, secure code review, and DevSecOps integration.
 
-**Currently seeking Summer 2026 internships** in Application Security, SOC Analysis, or Detection Engineering.
-
+<!--**Currently seeking Summer 2026 internships** in Application Security, SOC Analysis, or Detection Engineering.
+-->
 ---
 
 ### Technical Skills
